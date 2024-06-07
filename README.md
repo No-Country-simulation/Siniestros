@@ -140,7 +140,7 @@ Se puede observar que la mayoría de los siniestros son causados por vehículos 
 
 La otra cantidad importante a observar la aportan los vehículos de carga, causando mayor afectación a los motociclistas, seguido por los peatones, los autos y bicicletas; este tipo de autos tienen que estar bajo el mando de personas responsables, con conicimiento de la ley,con un buen dominio y pericia en este tipo de automotores.
 
-Como víctimas los que aportan la mayor cantidad son las motos, seguidos por los peatones, esto es facíl de explicar ya que, el parque automotor de vehículos tipo moto ha ido creciendo en los últimos años un 30%<p>fuente el Clarin.com</p>, en una moto tu eres el chasis del vehículo, ir en dos ruedas no aporta tanta estabilidad como ir en un automóvil, entonces, exceder la velocidad en este tipo de automotores, la mayor parte del tiempo resulta en un siniestro.También el hecho de que la mayor parte de las víctimas las aporten los peatones es de especial cuidado, al peatón hay que enseñarle que él puede resultar ser el más afectado ante una imprudencia en las calles, ya que, su cuerpo es su vehículo de desplazamiento y por tanto el que resulta afectado ante una imprudencia.
+Como víctimas los que aportan la mayor cantidad son las motos, seguidos por los peatones, esto es facíl de explicar ya que, el parque automotor de vehículos tipo moto ha ido creciendo en los últimos años un 30% según el periódico el Clarin, en una moto tu eres el chasis del vehículo, ir en dos ruedas no aporta tanta estabilidad como ir en un automóvil, entonces, exceder la velocidad en este tipo de automotores, la mayor parte del tiempo resulta en un siniestro.También el hecho de que la mayor parte de las víctimas las aporten los peatones es de especial cuidado, al peatón hay que enseñarle que él puede resultar ser el más afectado ante una imprudencia en las calles, ya que, su cuerpo es su vehículo de desplazamiento y por tanto el que resulta afectado ante una imprudencia.
 
 Como otro punto a observar de esta gráfica, las autoridades deben poner su atención en hacer campaña de concientización a los pasajeros, porque pudimos observar su alta incidencia en la causa de siniestros,estos son los que menos consecuencias como víctimas sufren, pero aportan una gran cantidad de víctimas.
 
@@ -170,6 +170,8 @@ La seguridad vial es cuestión de todos, para que un plan de seguridad vial o un
 # Recursos
 
 * [Plan de Seguridad Vial de la Ciudad 2016-2019](https://buenosaires.gob.ar/plan-de-seguridad-vial-de-la-ciudad-2016-2019)
+
+*[Siniestros viales y el dilema de las motos: aunque mejoró, Argentina está lejos de bajar a la mitad los muertos por accidentes](https://www.infobae.com/sociedad/2023/05/24/siniestros-viales-y-el-dilema-de-las-motos-aunque-mejoro-argentina-esta-lejos-de-bajar-a-la-mitad-los-muertos-por-accidentes/)
 
 # Créditos
 
