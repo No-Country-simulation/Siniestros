@@ -171,7 +171,7 @@ La seguridad vial es cuestión de todos, para que un plan de seguridad vial o un
 
 * [Plan de Seguridad Vial de la Ciudad 2016-2019](https://buenosaires.gob.ar/plan-de-seguridad-vial-de-la-ciudad-2016-2019)
 
-*[Siniestros viales y el dilema de las motos: aunque mejoró, Argentina está lejos de bajar a la mitad los muertos por accidentes](https://www.infobae.com/sociedad/2023/05/24/siniestros-viales-y-el-dilema-de-las-motos-aunque-mejoro-argentina-esta-lejos-de-bajar-a-la-mitad-los-muertos-por-accidentes/)
+* [Siniestros viales y el dilema de las motos: aunque mejoró, Argentina está lejos de bajar a la mitad los muertos por accidentes](https://www.infobae.com/sociedad/2023/05/24/siniestros-viales-y-el-dilema-de-las-motos-aunque-mejoro-argentina-esta-lejos-de-bajar-a-la-mitad-los-muertos-por-accidentes/)
 
 # Créditos
 
