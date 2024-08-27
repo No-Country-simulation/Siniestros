@@ -20,9 +20,9 @@
 
 # Introducción
 
-El Observatorio de Movilidad y Seguridad Vial (OMSV) que se encuentra ubicado en la Ciudad de Buenos Aires(CABA), nos solicita la elaboración de un *informe de analisís de Siniestros viales*  con el fin de generar un plan estratégico que permita a las autoridades locales y gubernamentales tomar acción para lograr un disminución en la cantidad de siniestros viales en esta importante ciudad capital.Para ello, nos proporcionó un registro de datos sobre siniestros viales comprendido entre los años 2016 y 2021, que cuenta con un registro detallado de  víctimas y hechos.
+El Observatorio de Movilidad y Seguridad Vial (OMSV) que se encuentra ubicado en la Ciudad de Buenos Aires(CABA), solicita la elaboración de un *informe de analisís de Siniestros viales*  con el fin de generar un plan estratégico que permita a las autoridades locales y gubernamentales tomar acción para lograr un disminución en la cantidad de siniestros viales en esta importante ciudad capital.Para ello, nos proporcionó un registro de datos sobre siniestros viales comprendido entre los años 2016 y 2021, que cuenta con un registro detallado de víctimas y hechos.
 
-En el presente proyecto se desenglosará de manera explicativa y objectiva lo observado en el registro de datos.
+En el presente proyecto se desenglosará de manera explicativa y objectiva lo observado en los registros de datos.
 
 # Propuesta
 
